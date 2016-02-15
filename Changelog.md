@@ -14,3 +14,5 @@ Slimsy Change log
 - 1.1.5 - Umbraco package only release without HtmlAgilityPack Assembly
 - 1.1.6 - Umbraco v7.3.0 upgrade & focal point preference fix
 - 1.1.7 - Fix to ensure that quality comes before format in ImageProcessor Urls
+-         Updated Slimresponse (using HtmlAgilityPack 1.4.9 now)
+-         Updated reference to Umbraco 7.4.0
